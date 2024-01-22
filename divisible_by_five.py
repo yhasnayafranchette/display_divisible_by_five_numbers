@@ -8,4 +8,7 @@ def print_divisible_by_5(number_list):
             print(number)
 
 #Display numbers divisible by 5
-   
+numbers = 10, 20, 33, 46, 55
+print ("Given list is", numbers)
+print("Numbers divisible by 5:")
+print_divisible_by_5(numbers)
